@@ -6,3 +6,29 @@
     box-sizing: border-box;
 }
 
+.Calculator {
+    background-color: brown;
+}
+
+button {
+    background-color: black;
+    color: silver;
+
+    width: 50px;
+    aspect-ratio: 1/1;
+
+    border-radius: 20px;
+    border: 3px inset silver;
+    margin: 1px;
+}
+
+.button_box {
+    width: 240px;
+    background-color: aqua;
+    margin-inline: auto;
+}
+
+#display {
+    background-color: aqua;
+
+}
